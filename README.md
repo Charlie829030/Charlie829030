@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Javed Rangrej....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Javed....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1> 
 Front End Developer ⚡ Learning Enthusiast ⚡ JavaScript Addict ⚡ I like to build things that live on & use the internet.<br><br>
